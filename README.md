@@ -42,14 +42,6 @@ C:\> npm init
 <enter>
 ```
 
-#### b. Instalando NPM Packages `express`, `bootstrap` and dependencies `jquery@1.9.1`
-
-```cmd
-C:\>  npm install express 
-C:\>  npm install jquery@1.9.1
-C:\>  npm install popper.js@^1.14.7 -S
-C:\>  npm install bootstrap
-```
 
 ### 3.4. Guia para Implantação ###
 
@@ -89,5 +81,4 @@ Hello World!
 * [Install NodeJS](https://blog.teamtreehouse.com/install-node-js-npm-windows)
 * [Download NodeJS](https://nodejs.org/en/download/)
 * [Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh](https://www.youtube.com/watch?v=TlB_eWDSMt4)
-
 * [Kubernetes + Google Cloud + Docker: Getting Started](https://www.youtube.com/watch?v=GTRS9zRWs80)
